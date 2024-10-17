@@ -1,0 +1,16 @@
+#:schema ../../Resource%20Schema/Course.json
+
+title = "[title]"
+description = """Written by [author]
+Original publication: [url]
+Downloaded from https://github.com/bartbussmann/lesswrong_ebook_library, commit a14f48b44b64473616dd2c4eb4ea495532885fbf"""
+
+# [[books]]
+# label = "E-book"
+# file  = ""
+#
+# [[books.chapters]]
+# root = ""
+#
+# [[books.chapters.groups]]
+# sections = [""]
