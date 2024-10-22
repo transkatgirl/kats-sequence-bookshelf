@@ -5,7 +5,7 @@ A collection of [LessWrong](https://www.lesswrong.com) writings turned into [Por
 
 ## Contents
 
-[Kat's Bookshelf](https://github.com/transkatgirl/kats-bookshelf/#readme) is a small, hand-curated collection of courses which will slowly grow over time. This is an offshoot of the primary bookshelf, with the goal of providing an offline version of [LessWrong's Library](https://www.lesswrong.com/library).
+[Kat's Bookshelf](https://github.com/transkatgirl/kats-bookshelf/#readme) is a small, hand-curated collection of courses which will slowly grow over time. This is an offshoot of the primary bookshelf, with the goal of providing an offline version of major writings from [LessWrong's Library](https://www.lesswrong.com/library).
 
 All courses included in the bookshelf are made using free, open-access publications. Links to the original writings are included in each course’s description.
 
